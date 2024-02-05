@@ -28,9 +28,15 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+
+https://github.com/bab8/CS388Project2/assets/89927142/8854cc35-cffc-464e-af7c-68e4aa42c9e0
+
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had difficulty with the recycler view causing crashes since it had no initial data but I was able to figure out how to initialize it with no data.
+I also had difficulty with the input text fields overlapping with the recycler view, I could not figure out a good solution for when the keyboard was up but I was able to reduce the size
+of the recycler view itself to avoid overlapping with the input fields when the keyboard was down.
 
 ## License
 
